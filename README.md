@@ -36,7 +36,7 @@ This Power BI dashboard explores how consumers across India used credit cards be
 ## 📁 Included Files
 
 - `credit_card_spending_behavior_dashboard.pbix` – Power BI file  
-- `page_1.png` & `page_2.png` – Dashboard snapshots  
+- `dashboard_summary.jpg` & `detailed_table_view.jpg` – Dashboard snapshots  
 
 ---
 
