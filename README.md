@@ -26,10 +26,10 @@ This Power BI dashboard explores how consumers across India used credit cards be
 ## 🖼️ Dashboard Previews
 
 **Page 1 – Summary View**  
-![Summary Dashboard](page_1.png)
+![Summary Dashboard](dashboard_summary.jpg)
 
 **Page 2 – Detailed Table View**  
-![Detailed View](page_2.png)
+![Detailed View](detailed_table_view.jpg)
 
 ---
 
